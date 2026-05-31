@@ -29,4 +29,10 @@ Built a fully functional Active Directory environment using VirtualBox to simula
 - Help desk troubleshooting workflows
 
 ## Screenshots
-*(Screenshots folder coming soon)*
+
+![AD Users and Computers](01-AD-IT-OU.png)
+![GPO Management](08-AD-GPOs.png)
+![Server Manager](09-AD-Server-Manager.png)
+![Domain Joined Client](10-CLIENT-Domain-Joined.png)
+![Computers in AD](11-AD-Computers.png)
+![Ping Test](12-CLIENT-Ping-DC.png)
