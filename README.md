@@ -30,9 +30,9 @@ Built a fully functional Active Directory environment using VirtualBox to simula
 
 ## Screenshots
 
-![AD Users and Computers](01-AD-IT-OU.png)
-![GPO Management](08-AD-GPOs.png)
-![Server Manager](09-AD-Server-Manager.png)
-![Domain Joined Client](10-CLIENT-Domain-Joined.png)
-![Computers in AD](11-AD-Computers.png)
-![Ping Test](12-CLIENT-Ping-DC.png)
+![AD Users and Computers](AD-Lab-Screenshots/01-AD-IT-OU.png)
+![GPO Management](AD-Lab-Screenshots/08-AD-GPOs.png)
+![Server Manager](AD-Lab-Screenshots/09-AD-Server-Manager.png)
+![Domain Joined Client](AD-Lab-Screenshots/10-CLIENT-Domain-Joined.png)
+![Computers in AD](AD-Lab-Screenshots/11-AD-Computers.png)
+![Ping Test](AD-Lab-Screenshots/12-CLIENT-Ping-DC.png)
